@@ -7,10 +7,9 @@
 #### 
 📊 &nbsp;Apasionado por el análisis de datos y la resolución de problemas mediante datos.\
 🛠️​ &nbsp;En mis proyectos trabajo con SQL, Python y Excel para limpiar datos, analizarlos y construir dashboards que faciliten la toma de decisiones.\
-📂 &nbsp;En este GitHub encontrarás proyectos donde desarrollo el proceso completo: preparación de datos, consultas SQL, análisis y visualización de resultados.\
-📊​ &nbsp;Análisis de datos enfocado en supply chain, para reducir costos y tiempos.\
+📂 &nbsp;Desarrollo y proceso completo: preparación de datos, consultas SQL, análisis y visualización de resultados.\
 🚀 &nbsp;Buscando seguir creciendo como Data Analyst y colaborar en proyectos freelance.\
-💡 &nbsp;Me caracterizo por mi Adaptabilidad - Atención al detalle - Pensamiento analítico - Comunicación a todo nivel - Resiliencia\
+💡 &nbsp;Me caracterizo por mi Adaptabilidad - Atención al detalle - Pensamiento analítico - Comunicación a todo nivel - Resiliencia.\
 
 Mi portafolio: https://roberthbazan.github.io/rbr/
 <div align="center"> </div>
