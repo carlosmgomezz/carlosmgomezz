@@ -47,6 +47,12 @@ Mi portafolio: https://carlosmgomezz.github.io/portfolio/
 <a href="mailto:carlosmaxgomezsan@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 
 
+<a href="mailto:carlosmaxgomezsan@gmail.com">
+    <img width="85px" alt="Gmail" src="https://shields.io"/>
+</a>
+
+
+
 ------
 Credit: [RoberthBazan](https://github.com/RoberthBazan)
 Last edited on: 03/02/2026
