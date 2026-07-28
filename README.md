@@ -11,7 +11,7 @@
 🚀 &nbsp;Buscando seguir creciendo como Data Analyst y colaborar en proyectos freelance.\
 💡 &nbsp;Me caracterizo por mi Adaptabilidad - Atención al detalle - Pensamiento analítico - Comunicación a todo nivel - Resiliencia.\
 
-Mi portafolio: https://roberthbazan.github.io/rbr/
+Mi portafolio: https://carlosmgomezz.github.io/portfolio/
 <div align="center"> </div>
 
 <h2>🛠️ | Lenguajes y herramientas </h2>
