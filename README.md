@@ -5,11 +5,11 @@
 <h2>🙋‍♂️ | Acerca de mí</h2> 
 
 #### 
-👨‍🎓 &nbsp;Titulado en Ingeniería Industrial con tres años de experiencia en el área de Analítica y Logística.\
-⚙️​ &nbsp;Automatización y generación de reportes en Power BI.\
-🌐 &nbsp;Optimización de la cadena de suministro con decisiones basadas en datos.\
+📊 &nbsp;Apasionado por el análisis de datos y la resolución de problemas mediante datos.\
+🛠️​ &nbsp;En mis proyectos trabajo con SQL, Python y Excel para limpiar datos, analizarlos y construir dashboards que faciliten la toma de decisiones.\
+📂 &nbsp;En este GitHub encontrarás proyectos donde desarrollo el proceso completo: preparación de datos, consultas SQL, análisis y visualización de resultados.\
 📊​ &nbsp;Análisis de datos enfocado en supply chain, para reducir costos y tiempos.\
-💬 &nbsp;Negociación con proveedores internos y externos.\
+🚀 &nbsp;Buscando seguir creciendo como Data Analyst y colaborar en proyectos freelance.\
 💡 &nbsp;Me caracterizo por mi Adaptabilidad - Atención al detalle - Pensamiento analítico - Comunicación a todo nivel - Resiliencia\
 
 Mi portafolio: https://roberthbazan.github.io/rbr/
