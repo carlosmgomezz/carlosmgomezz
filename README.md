@@ -45,7 +45,7 @@ Mi portafolio: https://roberthbazan.github.io/rbr/
 <br/>
 
 &nbsp; <a href="https://www.linkedin.com/in/roberth-bazan/"><img width="105px" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
-<a href="mailto:roberthbazan4@gmail.com"><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
+<a href="mailto:carlosmaxgomezsan@gmail.com><img width="85px" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> 
 </br>
 
 ------
