@@ -18,18 +18,13 @@ Mi portafolio: https://roberthbazan.github.io/rbr/
 <h2>🛠️ | Lenguajes y herramientas </h2>
 
 #### Visualización de datos
-![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)&nbsp;
-![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)&nbsp;
+
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=ms-excel&logoColor=white)
 <!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
 
-#### Bases de datos
+#### Bases de datos y Lenguajes
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
-
-
-#### Lenguajes y Librerías
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 
@@ -37,6 +32,13 @@ Mi portafolio: https://roberthbazan.github.io/rbr/
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
+
+#### Estoy aprendiendo
+
+![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)&nbsp;
+![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)&nbsp;
+
+
 
 ## &nbsp; &nbsp; 📬 &nbsp; Contáctame
 
