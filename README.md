@@ -5,11 +5,11 @@
 <h2>🙋‍♂️ | Acerca de mí</h2> 
 
 #### 
-📊 &nbsp;Apasionado por el análisis de datos y la resolución de problemas mediante datos.\
-🛠️​ &nbsp;En mis proyectos trabajo con SQL, Python y Excel para limpiar datos, analizarlos y construir dashboards que faciliten la toma de decisiones.\
-📂 &nbsp;Desarrollo y proceso completo: preparación de datos, consultas SQL, análisis y visualización de resultados.\
-🚀 &nbsp;Buscando seguir creciendo como Data Analyst y colaborar en proyectos freelance.\
-💡 &nbsp;Me caracterizo por mi Adaptabilidad - Atención al detalle - Pensamiento analítico - Comunicación a todo nivel - Resiliencia
+📊 &nbsp;Passionate about data analysis and solving problems through data.\
+🛠️​ &nbsp;I work with SQL, Python, and Excel to clean and analyze data, and build dashboards that facilitate decision-making.\
+📂 &nbsp Full development and process: data preparation, SQL queries, analysis, and results visualization.\
+🚀 &nbsp;Looking to keep growing as a Data Analyst and collaborate on freelance projects.\
+💡 &nbsp;I am characterized by my Adaptability - Attention to detail - Analytical thinking - Communication at all levels - Resilience
 
 Mi portafolio: https://carlosmgomezz.github.io/portfolio/
 <div align="center"> </div>
