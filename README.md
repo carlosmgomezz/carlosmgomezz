@@ -7,7 +7,7 @@
 #### 
 📊 &nbsp;Passionate about data analysis and solving problems through data.\
 🛠️​ &nbsp;I work with SQL, Python, and Excel to clean and analyze data, and build dashboards that facilitate decision-making.\
-📂 &nbsp Full development and process: data preparation, SQL queries, analysis, and results visualization.\
+📂 &nbsp;Full development and process: data preparation, SQL queries, analysis, and results visualization.\
 🚀 &nbsp;Looking to keep growing as a Data Analyst and collaborate on freelance projects.\
 💡 &nbsp;I am characterized by my Adaptability - Attention to detail - Analytical thinking - Communication at all levels - Resilience
 
