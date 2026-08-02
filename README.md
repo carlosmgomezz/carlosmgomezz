@@ -13,7 +13,7 @@
 
 <div align="center"> </div>
 
-<h2>🛠️ | Lenguajes y herramientas </h2>
+<h2>🛠️ | Languages and Tools </h2>
 
 #### Data Visualization
 
