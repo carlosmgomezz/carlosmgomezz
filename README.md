@@ -54,8 +54,6 @@ Mi portafolio: https://carlosmgomezz.github.io/portfolio/
 
 
 ------
-Credit: [RoberthBazan](https://github.com/RoberthBazan)
-Last edited on: 03/02/2026
 
 ## 🚀 Featured Projects
 
