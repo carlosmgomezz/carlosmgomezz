@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hola!+👋;+Soy+Carlos+Gomez!;" />
 
-<h2>🙋‍♂️ | Acerca de mí</h2> 
+<h2>🙋‍♂️ | About me</h2> 
 
 #### 
 📊 &nbsp;Passionate about data analysis and solving problems through data.\
@@ -11,35 +11,34 @@
 🚀 &nbsp;Looking to keep growing as a Data Analyst and collaborate on freelance projects.\
 💡 &nbsp;I am characterized by my Adaptability - Attention to detail - Analytical thinking - Communication at all levels - Resilience
 
-Mi portafolio: https://carlosmgomezz.github.io/portfolio/
 <div align="center"> </div>
 
 <h2>🛠️ | Lenguajes y herramientas </h2>
 
-#### Visualización de datos
+#### Data Visualization
 
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat&logo=ms-excel&logoColor=white)
 <!-- ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat&logo=docker&logoColor=white)&nbsp; -->
 
-#### Bases de datos y Lenguajes
+#### Databases and Languages
 
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 
 
-#### Herramientas
+#### Tools
 
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)&nbsp;
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-#### Estoy aprendiendo
+#### I'm still learning
 
 ![Power BI](https://custom-icon-badges.demolab.com/badge/Power%20BI-F1C912?logo=power-bi&logoColor=fff)&nbsp;
 ![Tableau](https://custom-icon-badges.demolab.com/badge/Tableau-0176D3?logo=tableau&logoColor=fff)&nbsp;
 
 
 
-## &nbsp; &nbsp; 📬 &nbsp; Contáctame
+## &nbsp; &nbsp; 📬 &nbsp; Contact me
 
 <br/>
 
