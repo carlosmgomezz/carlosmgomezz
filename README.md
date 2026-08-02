@@ -63,7 +63,7 @@ Last edited on: 03/02/2026
 * **Business Problem:** A food and beverage business needed to analyze a full year of sales performance to optimize raw material orders, understand peak customer traffic, and maximize menu profitability.
 * **Applied Solution:** Imported over 48,000 raw records into **MySQL** for data structuring and executed optimized queries. Connected SQL outputs to **Excel via Power Query** to build an interactive dashboard with slicers and dynamic KPIs.
 * **Business Impact:** Identified critical Friday/Saturday peak hours to adjust staff scheduling and discovered that Large size pizzas drive 46% of total revenue, optimizing supply chain spending.
-* **Technologies:** `SQL (MySQL)` `Advanced Excel` `Power Query` `Data Visualization`
+* **Technologies:** `SQL (MySQL)` `Advanced Excel` `Data Visualization`
 
 <!--
 **RoberthBazan/RoberthBazan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
